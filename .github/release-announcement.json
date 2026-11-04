@@ -1,9 +1,0 @@
-{
-  "version": "0.44.3",
-  "highlights": [
-    "The rail on the right side of a long chat now shows your messages. Select one to go to it and its replies.",
-    "The chat rail stays in view and stays smooth while you scroll.",
-    "Side question in the composer + menu opens the side question pane again.",
-    "Agent templates that contain OpenBot's own skills install again."
-  ]
-}
